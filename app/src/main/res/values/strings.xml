@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidAvengerApp</string>
+    <string name="even">EVEN</string>
+    <string name="odd">ODD</string>
+</resources>
